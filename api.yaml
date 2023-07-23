@@ -1,0 +1,7 @@
+specVersion: v1
+type: Service
+
+env:
+  - name: BLAH
+    value: "abc"
+    
